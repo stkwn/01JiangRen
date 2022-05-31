@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Raymond",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Emily",
+      "age": 40
+    },
+    {
+      "id": 3,
+      "name": "Petter",
+      "age": 33
+    }
+  ],
+  "auth": []
+}

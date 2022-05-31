@@ -1,0 +1,10 @@
+POST http://localhost:9090/login
+Content-Type: application/json
+
+{
+  "username": "Petter"
+}
+
+###
+GET http://localhost:9090/user_info
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUGV0dGVyIiwiaWF0IjoxNjUzOTczMTYzfQ.h2W_i0pNoGlyGU1H8lH6x_ajd-DvC52eioBLzUho52Q
